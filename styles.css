@@ -1,0 +1,16 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+md-toolbar.md-default-theme:not(.md-menu-toolbar), md-toolbar:not(.md-menu-toolbar) {
+    background-color: #222222;
+    color: #eeeeee;
+}
+
+.app-content {
+    width: 100%;
+}
+
+a:hover {
+    cursor: pointer;
+}

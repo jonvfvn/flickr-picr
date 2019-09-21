@@ -1,0 +1,21 @@
+{
+  "name": "flickr-photo-search",
+  "version": "1.0.0",
+  "description": "flickr photo viewer app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan McGeary <jonnym46@icloud.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/animations": "^8.2.6",
+    "@angular/cdk": "^8.2.0",
+    "@angular/material": "^8.2.0",
+    "angular": "^1.7.8",
+    "angular-animate": "^1.7.8",
+    "angular-aria": "^1.7.8",
+    "angular-material": "^1.1.20",
+    "hammerjs": "^2.0.8"
+  }
+}
