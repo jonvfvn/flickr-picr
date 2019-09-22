@@ -1,6 +1,8 @@
 (function(){
+
   'use strict';
-  angular.module('flickrApp', ['ngMaterial'])
+
+  angular.module('flickrPicr', ['ngMaterial'])
       .controller('ListController', ['$scope', '$http', function($scope, $http){
 
         //create empty array of results
